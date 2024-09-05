@@ -1,0 +1,23 @@
+#core-concepts {
+  padding: 2rem;
+  border-radius: 6px;
+  background-color: rgb(212, 212, 212);
+  box-shadow: 0 2px 8px rgba(0, 0, 0 ,0.4);
+}
+main h2 {
+  text-align: center;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+ margin: 0 0 1.5rem 0; 
+ color: white;
+}
+#core-concept ul{
+  list-style: none;
+  padding: 0;
+}
+.h2-class{
+  color: black;
+}
+ul {
+  display: flex;
+  list-style-type: none;
+}
